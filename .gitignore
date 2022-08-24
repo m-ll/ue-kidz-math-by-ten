@@ -77,4 +77,4 @@ DerivedDataCache/*
 
 # Remove all downloadable content
 Content/*/
-!Content/TheMillGame
+!Content/MathByTen
