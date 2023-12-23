@@ -77,4 +77,7 @@ DerivedDataCache/*
 
 # Remove all downloadable content
 Content/*/
+!Content/Map*
+!Content/Question
+!Content/Run
 !Content/MathByTen
