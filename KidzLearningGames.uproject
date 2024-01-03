@@ -14,6 +14,10 @@
 		{
 			"Name": "TextureFormatOodle",
 			"Enabled": false
+		},
+		{
+			"Name": "TextToSpeech",
+			"Enabled": true
 		}
 	]
 }
