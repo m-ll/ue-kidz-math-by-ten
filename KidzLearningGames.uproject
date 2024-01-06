@@ -19,5 +19,9 @@
 			"Name": "TextToSpeech",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
 	]
 }
